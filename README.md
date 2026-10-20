@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=200&section=header&text=Aryan%20Bhosale&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Python&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aryan Bhosale, AI/ML Developer and Backend Engineer" />
+  <img src="assets/hero.svg" width="100%" alt="Aryan Bhosale, AI/ML Developer and Backend Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Building+and+training+ML+models;Deploying+models+as+production+APIs;Designing+reliable+data+pipelines" alt="AI/ML Developer: building ML models, deploying them as APIs, designing data pipelines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+and+training+ML+models;Deploying+models+as+production+APIs;Designing+reliable+data+pipelines" alt="Building ML models, deploying them as APIs, designing data pipelines" />
 </p>
 
 <!-- Add your contact links here, then remove these comment markers:
@@ -17,10 +17,16 @@
 
 I'm an AI/ML developer with a strong backend engineering foundation. I build machine learning models in Python and the systems around them: the data pipelines that feed them and the APIs that serve them in production.
 
-- 🤖 Building and evaluating machine learning models
-- 🚀 Deploying models as scalable APIs with FastAPI and Docker
-- 🔄 Designing data pipelines for training and inference
-- 🤝 Open to AI/ML and backend engineering roles and collaborations
+- Building and evaluating machine learning models
+- Deploying models as scalable APIs with FastAPI and Docker
+- Designing data pipelines for training and inference
+- Open to AI/ML and backend engineering roles and collaborations
+
+## How I Work
+
+<p align="center">
+  <img src="assets/ml-pipeline.svg" width="100%" alt="ML workflow: data, preprocess, train, evaluate, deploy" />
+</p>
 
 ## Tech Stack
 
@@ -62,8 +68,4 @@ I'm an AI/ML developer with a strong backend engineering foundation. I build mac
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanbhosaleofficial-debug/aryanbhosaleofficial-debug/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aryanbhosaleofficial-debug/aryanbhosaleofficial-debug/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="" />
 </p>
