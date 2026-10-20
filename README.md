@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=200&section=header&text=Aryan%20Bhosale&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aryan Bhosale, Backend Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58A6FF&height=200&section=header&text=Aryan%20Bhosale&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Python&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Aryan Bhosale, AI/ML Developer and Backend Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+APIs+that+scale;Building+reliable+data+pipelines;Shipping+ML+models+to+production" alt="Designing APIs, building data pipelines, shipping ML models" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Building+and+training+ML+models;Deploying+models+as+production+APIs;Designing+reliable+data+pipelines" alt="AI/ML Developer: building ML models, deploying them as APIs, designing data pipelines" />
 </p>
 
 <!-- Add your contact links here, then remove these comment markers:
@@ -15,30 +15,31 @@
 
 ## About Me
 
-I'm a backend engineer who builds APIs, databases and data pipelines in Python. I'm now going deeper into AI/ML, focusing on the engineering it takes to turn models into reliable, production-ready services.
+I'm an AI/ML developer with a strong backend engineering foundation. I build machine learning models in Python and the systems around them: the data pipelines that feed them and the APIs that serve them in production.
 
-- 🔭 Working on backend architecture, data pipelines and model deployment
-- 🌱 Learning ML fundamentals and MLOps practices
-- 🤝 Open to backend and AI/ML roles and collaborations
+- 🤖 Building and evaluating machine learning models
+- 🚀 Deploying models as scalable APIs with FastAPI and Docker
+- 🔄 Designing data pipelines for training and inference
+- 🤝 Open to AI/ML and backend engineering roles and collaborations
 
 ## Tech Stack
 
 | | |
 | --- | --- |
+| **AI / ML** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> |
 | **Languages** | <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" /> &nbsp; SQL |
 | **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="40" alt="FastAPI, Flask, Django" /> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="40" alt="Docker, Git, Linux" /> |
-| **AI / ML** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> |
 
 ## Current Focus
 
 | Area | What I'm working on |
 | --- | --- |
-| **Backend Architecture** | Clean, scalable service design and API contracts |
-| **Data Pipelines** | Ingestion, transformation and reliable ETL workflows |
-| **ML Fundamentals** | Core algorithms, model evaluation and feature engineering |
-| **Model Deployment** | Serving models behind APIs with Docker |
+| **Machine Learning** | Model building, evaluation and feature engineering |
+| **Model Deployment** | Serving models behind APIs with FastAPI and Docker |
+| **Data Pipelines** | Ingestion, preprocessing and reliable ETL for ML workflows |
+| **Backend Architecture** | Clean, scalable services that power AI products |
 
 <!-- Add 2–3 of your best projects here, then remove these comment markers:
 ## Featured Projects
