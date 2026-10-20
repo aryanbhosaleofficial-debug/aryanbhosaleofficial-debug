@@ -7,7 +7,7 @@
 </p>
 
 <!-- ACTIVITY:START -->
-<p align="center"><sub>Activity updates automatically</sub></p>
+<p align="center"><sub>⚪ <b>Last active Oct 5, 2026</b> · latest commit <code>GUI Integrated</code> in <a href="https://github.com/aryanbhosaleofficial-debug/Obrita-SIH26174">Obrita-SIH26174</a></sub></p>
 <!-- ACTIVITY:END -->
 
 <!-- Add your contact links here, then remove these comment markers:
