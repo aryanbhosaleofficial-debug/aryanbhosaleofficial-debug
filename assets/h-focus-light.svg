@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="84" viewBox="0 0 1000 84" role="img" aria-label="Current Focus">
+<defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="cube" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#1f6feb"/></linearGradient></defs>
+<style>
+  .spin { animation: spin 8s linear infinite; transform-origin: 26px 40px }
+  @keyframes spin { 0% { transform: rotate(0) } 100% { transform: rotate(360deg) } }
+  .sweep { animation: sweep 4s ease-in-out infinite }
+  @keyframes sweep { 0%,100% { opacity:.35 } 50% { opacity:1 } }
+</style>
+<g transform="translate(0,0)">
+  <polygon points="26,22 42,31 26,40 10,31" fill="#79c0ff"/>
+  <polygon points="10,31 26,40 26,58 10,49" fill="#1f6feb"/>
+  <polygon points="42,31 26,40 26,58 42,49" fill="#0b3d91"/>
+</g>
+<text x="62" y="20" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#57606a" letter-spacing="1">// what I'm building</text>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="700" text-anchor="start" ><text x="64.0" y="57.0" fill="#7fb0ff" fill-opacity="0.35">Current Focus</text><text x="63.2" y="56.0" fill="#7fb0ff" fill-opacity="0.48">Current Focus</text><text x="62.4" y="55.0" fill="#7fb0ff" fill-opacity="0.61">Current Focus</text><text x="61.6" y="54.0" fill="#7fb0ff" fill-opacity="0.74">Current Focus</text><text x="60.8" y="53.0" fill="#7fb0ff" fill-opacity="0.87">Current Focus</text><text x="60" y="52" fill="#0d1117">Current Focus</text></g>
+<rect class="sweep" x="60" y="66" width="420" height="2" rx="1" fill="url(#ln)"/>
+</svg>
