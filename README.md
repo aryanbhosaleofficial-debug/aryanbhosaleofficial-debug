@@ -33,7 +33,3 @@ My background is in backend engineering (APIs, databases and data pipelines), an
 | [Project Name](https://github.com/aryanbhosaleofficial-debug/repo) | What it does and the result | FastAPI · PostgreSQL · Docker |
 | [Project Name](https://github.com/aryanbhosaleofficial-debug/repo) | What it does and the result | Python · scikit-learn |
 -->
-
-<!-- ACTIVITY:START -->
-<sub>Last commit Oct 5, 2026 in [Obrita-SIH26174](https://github.com/aryanbhosaleofficial-debug/Obrita-SIH26174)</sub>
-<!-- ACTIVITY:END -->
