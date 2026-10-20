@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   -->
-  <img src="https://komarev.com/ghpvc/?username=aryanbhosaleofficial-debug&style=for-the-badge&color=1f6feb&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aryanbhosaleofficial-debug&label=PROFILE%20VIEWS&color=1f6feb&style=for-the-badge&abbreviated=true" alt="Profile views" />
 </p>
 
 ---
