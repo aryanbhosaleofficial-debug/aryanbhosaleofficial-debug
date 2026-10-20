@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+and+training+ML+models;Deploying+models+as+production+APIs;Designing+reliable+data+pipelines" alt="Building ML models, deploying them as APIs, designing data pipelines" />
 </p>
 
+<!-- ACTIVITY:START -->
+<p align="center"><sub>Activity updates automatically</sub></p>
+<!-- ACTIVITY:END -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-bhosale-003745374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
