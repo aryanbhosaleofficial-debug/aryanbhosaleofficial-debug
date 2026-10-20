@@ -15,7 +15,10 @@
   <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
 
-## About Me
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-about-light.svg" />
+  <img src="assets/h-about.svg" width="100%" alt="About Me" />
+</picture>
 
 I'm an AI/ML developer with a strong backend engineering foundation. I build machine learning models in Python and the systems around them: the data pipelines that feed them and the APIs that serve them in production.
 
@@ -24,30 +27,32 @@ I'm an AI/ML developer with a strong backend engineering foundation. I build mac
 - Designing data pipelines for training and inference
 - Open to AI/ML and backend engineering roles and collaborations
 
-## How I Work
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-work-light.svg" />
+  <img src="assets/h-work.svg" width="100%" alt="How I Work" />
+</picture>
 
 <p align="center">
   <img src="assets/ml-pipeline.svg" width="100%" alt="ML workflow: data, preprocess, train, evaluate, deploy" />
 </p>
 
-## Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-stack-light.svg" />
+  <img src="assets/h-stack.svg" width="100%" alt="Tech Stack" />
+</picture>
 
-| | |
-| --- | --- |
-| **AI / ML** | <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Python" /> &nbsp; SQL |
-| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="40" alt="FastAPI, Flask, Django" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" height="40" alt="PostgreSQL, MySQL, MongoDB" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" height="40" alt="Docker, Git, Linux" /> |
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech stack: NumPy, Pandas, scikit-learn, Python, SQL, FastAPI, Flask, Django, PostgreSQL, MySQL, MongoDB, Docker, Git, Linux" />
+</p>
 
-## Current Focus
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-focus-light.svg" />
+  <img src="assets/h-focus.svg" width="100%" alt="Current Focus" />
+</picture>
 
-| Area | What I'm working on |
-| --- | --- |
-| **Machine Learning** | Model building, evaluation and feature engineering |
-| **Model Deployment** | Serving models behind APIs with FastAPI and Docker |
-| **Data Pipelines** | Ingestion, preprocessing and reliable ETL for ML workflows |
-| **Backend Architecture** | Clean, scalable services that power AI products |
+<p align="center">
+  <img src="assets/focus.svg" width="100%" alt="Current focus: machine learning, model deployment, data pipelines, backend architecture" />
+</p>
 
 <!-- Add 2–3 of your best projects here, then remove these comment markers:
 ## Featured Projects
@@ -58,7 +63,10 @@ I'm an AI/ML developer with a strong backend engineering foundation. I build mac
 | [Project Name](https://github.com/aryanbhosaleofficial-debug/repo) | One line on the problem it solves and the result | Python · scikit-learn |
 -->
 
-## GitHub
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/h-github-light.svg" />
+  <img src="assets/h-github.svg" width="100%" alt="GitHub" />
+</picture>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanbhosaleofficial-debug&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Most used languages" />
