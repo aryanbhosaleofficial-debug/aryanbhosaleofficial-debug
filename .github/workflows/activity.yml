@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: activity
+  group: readme-writes
   cancel-in-progress: false
 
 jobs:
@@ -38,4 +38,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "Update latest activity"
+          git pull --rebase
           git push
