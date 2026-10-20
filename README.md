@@ -10,12 +10,10 @@
 <p align="center"><sub>⚪ <b>Last active Oct 5, 2026</b> · latest commit <code>GUI Integrated</code> in <a href="https://github.com/aryanbhosaleofficial-debug/Obrita-SIH26174">Obrita-SIH26174</a></sub></p>
 <!-- ACTIVITY:END -->
 
-<!-- Add your contact links here, then remove these comment markers:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/aryan-bhosale-003745374/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> -->
 </p>
--->
 
 ## About Me
 
