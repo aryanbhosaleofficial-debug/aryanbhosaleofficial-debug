@@ -1,5 +1,4 @@
 """Update the "latest activity" line in README.md from the owner's public GitHub events."""
-import html
 import json
 import os
 import re
@@ -37,19 +36,18 @@ def latest_commit(events):
 
 def render(found, now):
     if not found:
-        return '<p align="center"><sub>No recent public commits yet</sub></p>'
+        return ""
     repo, when = found
     local, today = when.astimezone(TZ), now.astimezone(TZ)
     days = (today.date() - local.date()).days
     if days == 0:
-        status = "🟢 <b>Active today</b>"
+        day = "today"
     elif days == 1:
-        status = "🟡 <b>Last active yesterday</b>"
+        day = "yesterday"
     else:
-        status = f"⚪ <b>Last active {local.strftime('%b %-d, %Y')}</b>"
-    repo_short = repo.split("/", 1)[1]
-    link = f'<a href="https://github.com/{repo}">{html.escape(repo_short)}</a>'
-    return f'<p align="center"><sub>{status} · latest commit in {link}</sub></p>'
+        day = local.strftime("%b %-d, %Y")
+    name = repo.split("/", 1)[1]
+    return f"<sub>Last commit {day} in [{name}](https://github.com/{repo})</sub>"
 
 
 def main():
